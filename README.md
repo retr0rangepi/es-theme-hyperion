@@ -1,8 +1,7 @@
-theme name:		hyperion 
-Description:		based on theme simple and zoid themes
-author:			Vitor Monteiro
+theme name:		hyperion\
+Description:		based on theme simple and zoid themes\
+author:			Vitor Monteiro\
 license:		creative commons CC-BY-NC-SA
-
 
 License
 =======
