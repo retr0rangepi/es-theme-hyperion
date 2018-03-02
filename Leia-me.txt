@@ -1,0 +1,11 @@
+theme name:		Hyperion
+Description:	Baseado no tema Simple
+version:		1.1
+author:			Hyperion
+email:			www.setordigital.blogspot.com.br	
+
+
+Installation
+============
+
+Descompactar a pasta em /etc/emulationstation/themes/
